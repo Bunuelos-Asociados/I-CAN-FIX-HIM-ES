@@ -19,4 +19,4 @@ DESCARGA EL ARCHIVO .ZIP ARRIBA
 
 Link de la traducción para Android: https://github.com/Bunuelos-Asociados/I-CAN-FIX-HIM-ES/releases/tag/1.0
 
-Versión 1.4
+Versión 1.0
